@@ -69,14 +69,13 @@ The Power BI dashboard provides:
 ## Repository Structure
 
 ```
-├── data/
-│   └── movies_new.csv
-├── notebooks/
+├── datasets/
+│   └── movies.csv
+│   └── movies_cleaned.csv
+├── scripts/
 │   └── data_cleaning.py
-├── powerbi/
-│   └── Movie_Dashboard.pbix
-├── images/
-│   └── dashboard_screenshots/
+├── power_bi/
+|   └── Movie_dashboard.pbix
 └── README.md
 ```
 
